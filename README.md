@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Logan Hall
 - 👀 I’m interested in embedded and firmware coding.
-- 🌱 I’m a Computer Engineer.
+- 🌱 I’m a Computer Engineering major.
